@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Oslo
+
+  Created by 蔡紫龙 on 2017/9/9.
+  Copyright © 2017年 caizilong. All rights reserved.
+*/
+"NSPhotoLibraryUsageDescription" = "Oslo 想要将下载的图片保存到你的相册中 🌅";

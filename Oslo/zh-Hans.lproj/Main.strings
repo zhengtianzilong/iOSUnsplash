@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0tr-Np-R9Q"; */
+"0tr-Np-R9Q.text" = "Label";
+
+/* Class = "UILabel"; text = "114"; ObjectID = "2ks-tT-UEI"; */
+"2ks-tT-UEI.text" = "114";
+
+/* Class = "UILabel"; text = "ZiLong"; ObjectID = "6pq-e8-AO7"; */
+"6pq-e8-AO7.text" = "ZiLong";
+
+/* Class = "UILabel"; text = "zilong"; ObjectID = "FWs-91-TEa"; */
+"FWs-91-TEa.text" = "zilong";
+
+/* Class = "UINavigationItem"; title = "Feature"; ObjectID = "PzW-EP-7KV"; */
+"PzW-EP-7KV.title" = "Feature";
+
+/* Class = "UIButton"; normalTitle = "zilong"; ObjectID = "QF1-GG-ik4"; */
+"QF1-GG-ik4.normalTitle" = "zilong";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "XsZ-iv-Rv8"; */
+"XsZ-iv-Rv8.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Designer & Developer"; ObjectID = "eHd-DW-OQc"; */
+"eHd-DW-OQc.text" = "Designer & Developer";
+
+/* Class = "UILabel"; text = "nanjing"; ObjectID = "ja2-FQ-asY"; */
+"ja2-FQ-asY.text" = "nanjing";
+
+/* Class = "UILabel"; text = "A good logo works in the simplest form. It is a memorable representation of your brand and inspires confidence in your customers."; ObjectID = "qzJ-Hi-Ay0"; */
+"qzJ-Hi-Ay0.text" = "A good logo works in the simplest form. It is a memorable representation of your brand and inspires confidence in your customers.";
+
+/* Class = "UISegmentedControl"; upA-ie-uGz.segmentTitles[0] = "Published"; ObjectID = "upA-ie-uGz"; */
+"upA-ie-uGz.segmentTitles[0]" = "Published";
+
+/* Class = "UISegmentedControl"; upA-ie-uGz.segmentTitles[1] = "Liked"; ObjectID = "upA-ie-uGz"; */
+"upA-ie-uGz.segmentTitles[1]" = "Liked";
+
+/* Class = "UILabel"; text = "114"; ObjectID = "zD0-Ja-V2Q"; */
+"zD0-Ja-V2Q.text" = "114";
